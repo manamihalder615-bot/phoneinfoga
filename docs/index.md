@@ -1,4 +1,5 @@
----
+brew install phoneinfoga
+phoneinfoga scan -n +917501481290
 hide:
 - navigation
 ---
